@@ -1,3 +1,3 @@
 # Hotel_Analysis
 
-For Finding and Analysis check (Analysis and Findings.pdf) file.
+For Findings and Analysis, check the Analysis and Findings.pdf file.
